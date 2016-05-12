@@ -1,4 +1,5 @@
 first commit
+<<<<<<< HEAD
 secomd commit
 
 
@@ -11,3 +12,6 @@ just for conflict
 server commit
 
 just for conflict in servers
+=======
+secomd commit
+>>>>>>> parent of 40ae78d... local commit
